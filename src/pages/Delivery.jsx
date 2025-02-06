@@ -2,7 +2,7 @@
 export const Delivery = () => {
   return (
     <div className="mt-4">
-      <p className="text-center text-1.5xl">We have an extensive network of trusted transporters that will carefully deliver your new ride to your front door within just a few days! All of our transporters are fully licensed and insured, offering us wholesale pricing based on our volume. <br />
+      <p className="text-center text-xl text-[#5d5e5d]">We have an extensive network of trusted transporters that will carefully deliver your new ride to your front door within just a few days! All of our transporters are fully licensed and insured, offering us wholesale pricing based on our volume. <br />
 
         Here’s how it works: <br />
         Scheduling: Contact our team to arrange shipping based on your preferences and timeline. <br />
